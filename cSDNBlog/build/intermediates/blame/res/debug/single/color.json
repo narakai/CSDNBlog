@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/color/vpi__dark_theme.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/color/vpi__dark_theme.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/color/vpi__light_theme.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/color/vpi__light_theme.xml"
+    }
+]

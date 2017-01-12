@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/favnewsContentView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/wangyibg"
+
+>
+	    <RelativeLayout
+        android:id="@+id/favhead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+ >
+
+        <include layout="@layout/favnews_content_head" />
+    </RelativeLayout>
+
+    <me.maxwin.view.XListView
+        android:id="@+id/id_favlistview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/favhead"
+        android:cacheColorHint="#00000000"
+        android:divider="@null"
+ />
+
+    <ProgressBar
+        android:id="@+id/id_favnewsContentPro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminateDrawable="@drawable/progressbar_large"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/favreLoadImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/base_empty_view"
+        android:visibility="invisible" />
+
+</RelativeLayout>

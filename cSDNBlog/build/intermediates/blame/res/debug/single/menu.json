@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/menu/menu_item_fav.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/menu/menu_item_fav.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/menu/menu_item_context.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/menu/menu_item_context.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/menu/main.xml"
+    }
+]

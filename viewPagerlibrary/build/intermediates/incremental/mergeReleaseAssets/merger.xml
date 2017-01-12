@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/leon/Documents/AS/CSDNBlog/viewPagerlibrary/src/main/assets"/><source path="/Users/leon/Documents/AS/CSDNBlog/viewPagerlibrary/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/leon/Documents/AS/CSDNBlog/viewPagerlibrary/src/release/assets"/></dataSet></merger>

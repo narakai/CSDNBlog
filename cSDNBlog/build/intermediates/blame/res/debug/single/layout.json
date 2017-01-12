@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/activity_image_page.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/activity_image_page.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/news_content_bold_title_item.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_bold_title_item.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/xlistview_footer.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/fav_item.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/fav_item.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/ptr_header.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/layout/ptr_header.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/blogs_item_fragment.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/blogs_item_fragment.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/news_content_item.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_item.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/favnews_content_head.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/favnews_content_head.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/favnews_content.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/favnews_content.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/tab_item_fragment_main.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/tab_item_fragment_main.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/xlistview_header.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/news_content_head.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_head.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/main_head.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/main_head.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/blogs_item.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/blogs_item.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/news_content.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/news_content_img_item.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_img_item.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/news_content_title_item.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_title_item.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/fav_item_fragment.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/fav_item_fragment.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/news_content_summary_item.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_summary_item.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/layout/news_item_yidong.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_item_yidong.xml"
+    }
+]

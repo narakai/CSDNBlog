@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="20.0.0$Generated" generated="true"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/res"/></dataSet><dataSet config="unspecified$Generated" generated="true"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res"/></dataSet><dataSet config="unspecified$Generated" generated="true"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/gestureimageview/unspecified/res"/></dataSet><dataSet config="unspecified$Generated" generated="true"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/imageloadlibrary/unspecified/res"/></dataSet><dataSet config="unspecified$Generated" generated="true"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res"/><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/generated/res/rs/debug"/><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/debug/res"/></dataSet><dataSet config="20.0.0" from-dependency="true" generated-set="20.0.0$Generated"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/res"/></dataSet><dataSet config="unspecified" from-dependency="true" generated-set="unspecified$Generated"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res"><file name="vpi__dark_theme" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/color/vpi__dark_theme.xml" qualifiers="" type="color"/><file name="vpi__light_theme" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/color/vpi__light_theme.xml" qualifiers="" type="color"/><file name="vpi__tab_indicator" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable/vpi__tab_indicator.xml" qualifiers="" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-mdpi-v4/vpi__tab_selected_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-mdpi-v4/vpi__tab_selected_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-mdpi-v4/vpi__tab_selected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-mdpi-v4/vpi__tab_unselected_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-mdpi-v4/vpi__tab_unselected_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-mdpi-v4/vpi__tab_unselected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-xhdpi-v4/vpi__tab_selected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-xhdpi-v4/vpi__tab_selected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-xhdpi-v4/vpi__tab_selected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-xhdpi-v4/vpi__tab_unselected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-xhdpi-v4/vpi__tab_unselected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable-xhdpi-v4/vpi__tab_unselected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml" qualifiers=""><attr format="dimension" name="strokeWidth"/><style name="Widget">
+    </style><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><dimen name="default_title_indicator_title_padding">5dp</dimen><dimen name="default_title_indicator_footer_indicator_height">4dp</dimen><color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color><attr format="color" name="unselectedColor"/><color name="default_circle_indicator_page_color">#00000000</color><dimen name="default_circle_indicator_radius">3dp</dimen><integer name="default_underline_indicator_fade_length">400</integer><integer name="default_circle_indicator_orientation">0</integer><integer name="default_underline_indicator_fade_delay">300</integer><declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable><integer name="default_title_indicator_footer_indicator_style">2</integer><color name="default_underline_indicator_selected_color">#FF33B5E5</color><bool name="default_circle_indicator_snap">false</bool><color name="default_line_indicator_unselected_color">#FFBBBBBB</color><color name="default_title_indicator_selected_color">#FFFFFFFF</color><attr format="boolean" name="centered"/><color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color><dimen name="default_title_indicator_text_size">15dp</dimen><color name="default_title_indicator_text_color">#BBFFFFFF</color><dimen name="default_title_indicator_footer_padding">7dp</dimen><dimen name="default_line_indicator_stroke_width">1dp</dimen><style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style><color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color><declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable><color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color><bool name="default_line_indicator_centered">true</bool><declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable><bool name="default_underline_indicator_fades">true</bool><color name="vpi__background_holo_light">#fff3f3f3</color><color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color><color name="vpi__background_holo_dark">#ff000000</color><style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+    </style><dimen name="default_circle_indicator_stroke_width">1dp</dimen><color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color><bool name="default_circle_indicator_centered">true</bool><dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen><style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style><attr format="color" name="selectedColor"/><dimen name="default_line_indicator_gap_width">4dp</dimen><color name="default_line_indicator_selected_color">#FF33B5E5</color><dimen name="default_line_indicator_line_width">12dp</dimen><dimen name="default_title_indicator_clip_padding">4dp</dimen><dimen name="default_title_indicator_footer_line_height">2dp</dimen><integer name="default_title_indicator_line_position">0</integer><bool name="default_title_indicator_selected_bold">true</bool><style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style><dimen name="default_title_indicator_top_padding">7dp</dimen><color name="default_circle_indicator_stroke_color">#FFDDDDDD</color><color name="default_title_indicator_footer_color">#FF33B5E5</color><color name="default_circle_indicator_fill_color">#FFFFFFFF</color><declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable></file></source></dataSet><dataSet config="unspecified" from-dependency="true" generated-set="unspecified$Generated"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/gestureimageview/unspecified/res"/></dataSet><dataSet config="unspecified" from-dependency="true" generated-set="unspecified$Generated"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/imageloadlibrary/unspecified/res"/></dataSet><dataSet config="unspecified" from-dependency="true" generated-set="unspecified$Generated"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res"><file name="listanim" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/anim/listanim.xml" qualifiers="" type="anim"/><file name="default_ptr_flip_bottom" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/drawable-hdpi-v4/default_ptr_flip_bottom.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/drawable-hdpi-v4/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="xlistview_arrow" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/drawable-hdpi-v4/xlistview_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/drawable-ldpi-v4/ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/drawable-mdpi-v4/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ptr_header" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/layout/ptr_header.xml" qualifiers="" type="layout"/><file name="xlistview_footer" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/layout/xlistview_footer.xml" qualifiers="" type="layout"/><file name="xlistview_header" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/layout/xlistview_header.xml" qualifiers="" type="layout"/><file path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml" qualifiers=""><string name="xlistview_header_hint_loading">正在加载...</string><string name="xlistview_footer_hint_normal">上滑查看更多</string><declare-styleable name="AbsListView"><attr format="color|reference" name="listSelector"/><attr format="boolean" name="drawSelectorOnTop"/><attr format="boolean" name="stackFromBottom"/><attr format="boolean" name="scrollingCache"/><attr format="boolean" name="textFilterEnabled"/><attr name="transcriptMode">
+
+            
+            <enum name="disabled" value="0"/>
+            
+            <enum name="normal" value="1"/>
+            
+            <enum name="alwaysScroll" value="2"/>
+        </attr><attr format="color" name="cacheColorHint"/><attr format="boolean" name="fastScrollEnabled"/><attr format="boolean" name="smoothScrollbar"/><attr name="choiceMode">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="singleChoice" value="1"/>
+            
+            <enum name="multipleChoice" value="2"/>
+            
+            <enum name="multipleChoiceModal" value="3"/>
+        </attr><attr format="boolean" name="fastScrollAlwaysVisible"/></declare-styleable><string name="xlistview_header_hint_ready">松开刷新数据</string><style name="ptr_last_updated" parent="ptr_text">
+        <item name="android:textStyle">normal</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:layout_below">@+id/ptr_id_text</item>
+    </style><style name="ptr_header">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><string name="xlistview_footer_hint_ready">松开载入更多</string><style name="AppTheme" parent="android:Theme.Light"/><string name="ptr_refreshing">Refreshing</string><string name="ptr_last_updated">Updated: %1$s</string><attr format="reference" name="absListViewStyle"/><declare-styleable name="View"><attr format="reference" name="id"/><attr format="string" name="tag"/><attr format="dimension" name="scrollX"/><attr format="dimension" name="scrollY"/><attr format="dimension" name="padding"/><attr format="dimension" name="paddingLeft"/><attr format="dimension" name="paddingTop"/><attr format="dimension" name="paddingRight"/><attr format="dimension" name="paddingBottom"/><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr format="boolean" name="focusable"/><attr format="boolean" name="focusableInTouchMode"/><attr name="visibility">
+
+            
+            <enum name="visible" value="0"/>
+            
+            <enum name="invisible" value="1"/>
+            
+            <enum name="gone" value="2"/>
+        </attr><attr format="boolean" name="fitsSystemWindows"/><attr name="scrollbars">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00000100"/>
+            
+            <flag name="vertical" value="0x00000200"/>
+        </attr><attr name="scrollbarStyle">
+
+            
+            <enum name="insideOverlay" value="0x0"/>
+            
+            <enum name="insideInset" value="0x01000000"/>
+            
+            <enum name="outsideOverlay" value="0x02000000"/>
+            
+            <enum name="outsideInset" value="0x03000000"/>
+        </attr><attr format="boolean" name="isScrollContainer"/><attr format="boolean" name="fadeScrollbars"/><attr format="integer" name="scrollbarFadeDuration"/><attr format="integer" name="scrollbarDefaultDelayBeforeFade"/><attr format="dimension" name="scrollbarSize"/><attr format="reference" name="scrollbarThumbHorizontal"/><attr format="reference" name="scrollbarThumbVertical"/><attr format="reference" name="scrollbarTrackHorizontal"/><attr format="reference" name="scrollbarTrackVertical"/><attr format="boolean" name="scrollbarAlwaysDrawHorizontalTrack"/><attr format="boolean" name="scrollbarAlwaysDrawVerticalTrack"/><attr name="fadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr><attr name="requiresFadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr><attr format="dimension" name="fadingEdgeLength"/><attr format="reference" name="nextFocusLeft"/><attr format="reference" name="nextFocusRight"/><attr format="reference" name="nextFocusUp"/><attr format="reference" name="nextFocusDown"/><attr format="reference" name="nextFocusForward"/><attr format="boolean" name="clickable"/><attr format="boolean" name="longClickable"/><attr format="boolean" name="saveEnabled"/><attr format="boolean" name="filterTouchesWhenObscured"/><attr name="drawingCacheQuality">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="low" value="1"/>
+            
+            <enum name="high" value="2"/>
+        </attr><attr format="boolean" name="keepScreenOn"/><attr format="boolean" name="duplicateParentState"/><attr format="dimension" name="minHeight"/><attr format="dimension" name="minWidth"/><attr format="boolean" name="soundEffectsEnabled"/><attr format="boolean" name="hapticFeedbackEnabled"/><attr format="string" localization="suggested" name="contentDescription"/><attr format="string" name="onClick"/><attr name="overScrollMode">
+
+            
+            <enum name="always" value="0"/>
+            
+            <enum name="ifContentScrolls" value="1"/>
+            
+            <enum name="never" value="2"/>
+        </attr><attr format="float" name="alpha"/><attr format="dimension" name="translationX"/><attr format="dimension" name="translationY"/><attr format="dimension" name="transformPivotX"/><attr format="dimension" name="transformPivotY"/><attr format="float" name="rotation"/><attr format="float" name="rotationX"/><attr format="float" name="rotationY"/><attr format="float" name="scaleX"/><attr format="float" name="scaleY"/><attr name="verticalScrollbarPosition">
+
+            
+            <enum name="defaultPosition" value="0"/>
+            
+            <enum name="left" value="1"/>
+            
+            <enum name="right" value="2"/>
+        </attr><attr name="layerType">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="software" value="1"/>
+            
+            <enum name="hardware" value="2"/>
+        </attr><attr name="layoutDirection">
+
+            
+            <enum name="ltr" value="0"/>
+            
+            <enum name="rtl" value="1"/>
+            
+            <enum name="inherit" value="2"/>
+            
+            <enum name="locale" value="3"/>
+        </attr><attr format="integer" name="textDirection">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="firstStrong" value="1"/>
+            
+            <enum name="anyRtl" value="2"/>
+            
+            <enum name="ltr" value="3"/>
+            
+            <enum name="rtl" value="4"/>
+            
+            <enum name="locale" value="5"/>
+        </attr><attr format="integer" name="textAlignment">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="gravity" value="1"/>
+            
+            <enum name="textStart" value="2"/>
+            
+            <enum name="textEnd" value="3"/>
+            
+            <enum name="center" value="4"/>
+            
+            <enum name="viewStart" value="5"/>
+            
+            <enum name="viewEnd" value="6"/>
+        </attr><attr format="integer" name="importantForAccessibility">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr><attr format="integer" name="accessibilityFocusable">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr></declare-styleable><style name="ptr_arrow">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:src">@drawable/default_ptr_flip_bottom</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style><string name="ptr_pull_to_refresh">Pull to refresh</string><string name="app_name">XListView</string><string name="ptr_release_to_refresh">Release to refresh</string><item name="scrapped_view" type="id"/><declare-styleable name="ViewGroup"><attr format="boolean" name="animateLayoutChanges"/><attr format="boolean" name="clipChildren"/><attr format="boolean" name="clipToPadding"/><attr format="reference" name="layoutAnimation"/><attr format="boolean" name="animationCache"/><attr name="persistentDrawingCache">
+
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="animation" value="0x1"/>
+            
+            <flag name="scrolling" value="0x2"/>
+            
+            <flag name="all" value="0x3"/>
+        </attr><attr format="boolean" name="alwaysDrawnWithCache"/><attr format="boolean" name="addStatesFromChildren"/><attr name="descendantFocusability">
+
+            
+            <enum name="beforeDescendants" value="0"/>
+            
+            <enum name="afterDescendants" value="1"/>
+            
+            <enum name="blocksDescendants" value="2"/>
+        </attr><attr format="boolean" name="splitMotionEvents"/></declare-styleable><declare-styleable name="PinterestLikeAdapterView"><attr format="integer" name="plaColumnNumber"/><attr format="integer" name="plaLandscapeColumnNumber"/><attr format="dimension" name="plaColumnPaddingLeft"/><attr format="dimension" name="plaColumnPaddingRight"/></declare-styleable><attr format="reference" name="listViewStyle"/><style name="ptr_headerContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">bottom</item>
+    </style><style name="ptr_spinner" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:indeterminate">true</item>
+        <item name="android:layout_marginLeft">28dp</item>
+    </style><declare-styleable name="ListView"><attr format="dimension" name="dividerHeight"/><attr format="boolean" name="headerDividersEnabled"/><attr format="boolean" name="footerDividersEnabled"/><attr format="reference|color" name="overScrollHeader"/><attr format="reference|color" name="overScrollFooter"/></declare-styleable><style name="ptr_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style><string name="xlistview_header_hint_normal">下拉刷新</string><string name="hello">Hello World, XListViewActivity!</string><string name="xlistview_header_last_time">更新：</string><style name="ptr_textwrapper">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res"><file name="back_btn" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/back_btn.xml" qualifiers="" type="drawable"/><file name="background_activated" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/background_activated.xml" qualifiers="" type="drawable"/><file name="bg_key" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/bg_key.xml" qualifiers="" type="drawable"/><file name="comment_btn" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/comment_btn.xml" qualifiers="" type="drawable"/><file name="download_btn" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/download_btn.xml" qualifiers="" type="drawable"/><file name="progressbar_large" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/progressbar_large.xml" qualifiers="" type="drawable"/><file name="base_action_bar_back_divider" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_action_bar_back_divider.png" qualifiers="hdpi-v4" type="drawable"/><file name="base_empty_view" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_empty_view.png" qualifiers="hdpi-v4" type="drawable"/><file name="base_list_divider_drawable" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_list_divider_drawable.png" qualifiers="hdpi-v4" type="drawable"/><file name="base_loading_large_icon" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_loading_large_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="base_send_normal" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_send_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="base_send_pressed" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_send_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="biz_navigation_tab_news_pressed" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_navigation_tab_news_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="biz_news_detail_back_normal" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_news_detail_back_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="biz_news_detaila_action_bar_bg" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_news_detaila_action_bar_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="biz_pics_ic_back_normal" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_pics_ic_back_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="biz_pics_ic_back_pressed" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_pics_ic_back_pressed.png" qualifiers="hdpi-v4" type="drawable"/><file name="biz_pics_ic_download_tp" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_pics_ic_download_tp.png" qualifiers="hdpi-v4" type="drawable"/><file name="biz_topic_vote_submit_default" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_topic_vote_submit_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="images" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/images.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="init_pic" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/init_pic.png" qualifiers="hdpi-v4" type="drawable"/><file name="logo" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/logo.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="activity_image_page" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/activity_image_page.xml" qualifiers="" type="layout"/><file name="activity_main" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="blogs_item" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/blogs_item.xml" qualifiers="" type="layout"/><file name="blogs_item_fragment" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/blogs_item_fragment.xml" qualifiers="" type="layout"/><file name="fav_item" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/fav_item.xml" qualifiers="" type="layout"/><file name="fav_item_fragment" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/fav_item_fragment.xml" qualifiers="" type="layout"/><file name="favnews_content" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/favnews_content.xml" qualifiers="" type="layout"/><file name="favnews_content_head" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/favnews_content_head.xml" qualifiers="" type="layout"/><file name="main_head" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/main_head.xml" qualifiers="" type="layout"/><file name="news_content" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content.xml" qualifiers="" type="layout"/><file name="news_content_bold_title_item" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_bold_title_item.xml" qualifiers="" type="layout"/><file name="news_content_head" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_head.xml" qualifiers="" type="layout"/><file name="news_content_img_item" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_img_item.xml" qualifiers="" type="layout"/><file name="news_content_item" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_item.xml" qualifiers="" type="layout"/><file name="news_content_summary_item" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_summary_item.xml" qualifiers="" type="layout"/><file name="news_content_title_item" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_content_title_item.xml" qualifiers="" type="layout"/><file name="news_item_yidong" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/news_item_yidong.xml" qualifiers="" type="layout"/><file name="tab_item_fragment_main" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/layout/tab_item_fragment_main.xml" qualifiers="" type="layout"/><file name="main" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file name="menu_item_context" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/menu/menu_item_context.xml" qualifiers="" type="menu"/><file name="menu_item_fav" path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/menu/menu_item_fav.xml" qualifiers="" type="menu"/><file path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml" qualifiers=""><color name="whiteGray">#ffC9CACB</color><color name="light_blue">#5CACEE</color><color name="younibg">#f6f6f6</color><color name="light_gray">#87CEEB</color><color name="buttom_buttom">#000000</color><color name="yellowbg">#e5d84f</color><color name="lightblue">#FF007AA2</color><color name="black">#FF000000</color><color name="graybg">#ececec</color><color name="bg_gray">#FFE3E3E7</color><color name="black2">#80000000</color><color name="buttom_centre">#303030</color><color name="transparent">#00000000</color><color name="light_orange">#FFFCBA00</color><color name="nomalGray">#838B83</color><color name="red">#FFFF0000</color><color name="lightorange">#FFACBA00</color><color name="transparentblack">#88000000</color><color name="buttom_top">#1e1e1e</color><color name="yellow">#FFD700</color><color name="pathbg">#f1eee9</color><color name="transparentgray">#CC666666</color><color name="click_color">#2b72d6</color><color name="wangyibg">#f0f0f0</color><color name="transparent2">#55ffffff</color><color name="coffee">#622f1b</color><color name="blue">#436EEE</color><color name="bg">#FFF39200</color><color name="pathbg2">#d0c3b7</color><color name="txt_blue">#FF007CB0</color><color name="orange">#FF9900</color><color name="txt_gray">#FF575756</color><color name="transparentblack2">#cc000000</color><color name="transparentblue">#445CACEE</color><color name="orange_red">#613030</color><color name="gray">#ff333333</color><color name="white">#FFFFFFFF</color><color name="txt_orange">#FFEB6100</color><color name="transparentdarkgray">#CC292929</color><color name="wangyibg2">#E0E0E0</color></file><file path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="action_settings">Settings</string><string name="app_name">CSDNBlog</string></file><file path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/styles.xml" qualifiers=""><style name="MyWidget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">10dip</item>
+        <item name="android:paddingRight">10dip</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:textAppearance">@style/MyTextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:maxLines">1</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="MyTextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="MyTheme" parent="AppBaseTheme">
+        <item name="vpiTabPageIndicatorStyle">@style/MyWidget.TabPageIndicator</item>
+        <item name="android:windowBackground">@drawable/init_pic</item>
+        <item name="android:windowNoTitle">true</item>  
+        <item name="android:animationDuration">5000</item>
+        <item name="android:windowContentOverlay">@null</item>  
+    </style></file><file path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values-w820dp/dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/generated/res/rs/debug"/><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ListView"><attr format="dimension" name="dividerHeight"/><attr format="boolean" name="headerDividersEnabled"/><attr format="boolean" name="footerDividersEnabled"/><attr format="reference|color" name="overScrollHeader"/><attr format="reference|color" name="overScrollFooter"/></declare-styleable><declare-styleable name="ViewGroup"><attr format="boolean" name="animateLayoutChanges"/><attr format="boolean" name="clipChildren"/><attr format="boolean" name="clipToPadding"/><attr format="reference" name="layoutAnimation"/><attr format="boolean" name="animationCache"/><attr name="persistentDrawingCache">
+
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="animation" value="0x1"/>
+            
+            <flag name="scrolling" value="0x2"/>
+            
+            <flag name="all" value="0x3"/>
+        </attr><attr format="boolean" name="alwaysDrawnWithCache"/><attr format="boolean" name="addStatesFromChildren"/><attr name="descendantFocusability">
+
+            
+            <enum name="beforeDescendants" value="0"/>
+            
+            <enum name="afterDescendants" value="1"/>
+            
+            <enum name="blocksDescendants" value="2"/>
+        </attr><attr format="boolean" name="splitMotionEvents"/></declare-styleable><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="AbsListView"><attr format="color|reference" name="listSelector"/><attr format="boolean" name="drawSelectorOnTop"/><attr format="boolean" name="stackFromBottom"/><attr format="boolean" name="scrollingCache"/><attr format="boolean" name="textFilterEnabled"/><attr name="transcriptMode">
+
+            
+            <enum name="disabled" value="0"/>
+            
+            <enum name="normal" value="1"/>
+            
+            <enum name="alwaysScroll" value="2"/>
+        </attr><attr format="color" name="cacheColorHint"/><attr format="boolean" name="fastScrollEnabled"/><attr format="boolean" name="smoothScrollbar"/><attr name="choiceMode">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="singleChoice" value="1"/>
+            
+            <enum name="multipleChoice" value="2"/>
+            
+            <enum name="multipleChoiceModal" value="3"/>
+        </attr><attr format="boolean" name="fastScrollAlwaysVisible"/></declare-styleable><declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable><declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable><declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="View"><attr format="reference" name="id"/><attr format="string" name="tag"/><attr format="dimension" name="scrollX"/><attr format="dimension" name="scrollY"/><attr format="dimension" name="padding"/><attr format="dimension" name="paddingLeft"/><attr format="dimension" name="paddingTop"/><attr format="dimension" name="paddingRight"/><attr format="dimension" name="paddingBottom"/><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr format="boolean" name="focusable"/><attr format="boolean" name="focusableInTouchMode"/><attr name="visibility">
+
+            
+            <enum name="visible" value="0"/>
+            
+            <enum name="invisible" value="1"/>
+            
+            <enum name="gone" value="2"/>
+        </attr><attr format="boolean" name="fitsSystemWindows"/><attr name="scrollbars">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00000100"/>
+            
+            <flag name="vertical" value="0x00000200"/>
+        </attr><attr name="scrollbarStyle">
+
+            
+            <enum name="insideOverlay" value="0x0"/>
+            
+            <enum name="insideInset" value="0x01000000"/>
+            
+            <enum name="outsideOverlay" value="0x02000000"/>
+            
+            <enum name="outsideInset" value="0x03000000"/>
+        </attr><attr format="boolean" name="isScrollContainer"/><attr format="boolean" name="fadeScrollbars"/><attr format="integer" name="scrollbarFadeDuration"/><attr format="integer" name="scrollbarDefaultDelayBeforeFade"/><attr format="dimension" name="scrollbarSize"/><attr format="reference" name="scrollbarThumbHorizontal"/><attr format="reference" name="scrollbarThumbVertical"/><attr format="reference" name="scrollbarTrackHorizontal"/><attr format="reference" name="scrollbarTrackVertical"/><attr format="boolean" name="scrollbarAlwaysDrawHorizontalTrack"/><attr format="boolean" name="scrollbarAlwaysDrawVerticalTrack"/><attr name="fadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr><attr name="requiresFadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr><attr format="dimension" name="fadingEdgeLength"/><attr format="reference" name="nextFocusLeft"/><attr format="reference" name="nextFocusRight"/><attr format="reference" name="nextFocusUp"/><attr format="reference" name="nextFocusDown"/><attr format="reference" name="nextFocusForward"/><attr format="boolean" name="clickable"/><attr format="boolean" name="longClickable"/><attr format="boolean" name="saveEnabled"/><attr format="boolean" name="filterTouchesWhenObscured"/><attr name="drawingCacheQuality">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="low" value="1"/>
+            
+            <enum name="high" value="2"/>
+        </attr><attr format="boolean" name="keepScreenOn"/><attr format="boolean" name="duplicateParentState"/><attr format="dimension" name="minHeight"/><attr format="dimension" name="minWidth"/><attr format="boolean" name="soundEffectsEnabled"/><attr format="boolean" name="hapticFeedbackEnabled"/><attr format="string" localization="suggested" name="contentDescription"/><attr format="string" name="onClick"/><attr name="overScrollMode">
+
+            
+            <enum name="always" value="0"/>
+            
+            <enum name="ifContentScrolls" value="1"/>
+            
+            <enum name="never" value="2"/>
+        </attr><attr format="float" name="alpha"/><attr format="dimension" name="translationX"/><attr format="dimension" name="translationY"/><attr format="dimension" name="transformPivotX"/><attr format="dimension" name="transformPivotY"/><attr format="float" name="rotation"/><attr format="float" name="rotationX"/><attr format="float" name="rotationY"/><attr format="float" name="scaleX"/><attr format="float" name="scaleY"/><attr name="verticalScrollbarPosition">
+
+            
+            <enum name="defaultPosition" value="0"/>
+            
+            <enum name="left" value="1"/>
+            
+            <enum name="right" value="2"/>
+        </attr><attr name="layerType">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="software" value="1"/>
+            
+            <enum name="hardware" value="2"/>
+        </attr><attr name="layoutDirection">
+
+            
+            <enum name="ltr" value="0"/>
+            
+            <enum name="rtl" value="1"/>
+            
+            <enum name="inherit" value="2"/>
+            
+            <enum name="locale" value="3"/>
+        </attr><attr format="integer" name="textDirection">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="firstStrong" value="1"/>
+            
+            <enum name="anyRtl" value="2"/>
+            
+            <enum name="ltr" value="3"/>
+            
+            <enum name="rtl" value="4"/>
+            
+            <enum name="locale" value="5"/>
+        </attr><attr format="integer" name="textAlignment">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="gravity" value="1"/>
+            
+            <enum name="textStart" value="2"/>
+            
+            <enum name="textEnd" value="3"/>
+            
+            <enum name="center" value="4"/>
+            
+            <enum name="viewStart" value="5"/>
+            
+            <enum name="viewEnd" value="6"/>
+        </attr><attr format="integer" name="importantForAccessibility">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr><attr format="integer" name="accessibilityFocusable">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr></declare-styleable><declare-styleable name="PinterestLikeAdapterView"><attr format="integer" name="plaColumnNumber"/><attr format="integer" name="plaLandscapeColumnNumber"/><attr format="dimension" name="plaColumnPaddingLeft"/><attr format="dimension" name="plaColumnPaddingRight"/></declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi-v4/xlistview_arrow.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/drawable-hdpi-v4/xlistview_arrow.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi-v4/images.jpg",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/images.jpg"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_flip_bottom.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/drawable-hdpi-v4/default_ptr_flip_bottom.png"
+    }
+]

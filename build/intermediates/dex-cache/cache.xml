@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4570ac179cc8cab0bf31a76ef6b6c1d0ce03b623">
+        <dex dex="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/pre-dexed/debug/classes-98045244d0f2349e3a05fc1ee4779d46b5221284.jar" />
+    </item>
+    <item
+        jar="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/pre-dexed/debug/classes-38c6e0f914d99df70d0aa56032e4f94a6f6db023.jar" />
+    </item>
+    <item
+        jar="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/imageloadlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="760626ea26872d9e786c8b32a42d151b6fc803f5">
+        <dex dex="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/pre-dexed/debug/classes-a30d4082991a9255ecd3024f25d7dccf984f0882.jar" />
+    </item>
+    <item
+        jar="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-3ed975aafd651f86b1c5dc58db3442f1fefef39d.jar" />
+    </item>
+    <item
+        jar="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/gestureimageview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f911c0178465a7e841d2f6ebe417a0a72eb85234">
+        <dex dex="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/pre-dexed/debug/classes-b640fc8bdb29c1b9d0a293649b5c9d2a6e79e10e.jar" />
+    </item>
+    <item
+        jar="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ccee4ebaa5f5d7c97fd992c0692a324d4cb74276">
+        <dex dex="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/pre-dexed/debug/classes-b62c7983b943da9a83f9abaf64f47c0ec4e7bd98.jar" />
+    </item>
+    <item
+        jar="/Users/leon/adtformac/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-b31a3261df8a24b361da8aca97098e1b7ac0c26d.jar" />
+    </item>
+    <item
+        jar="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/libs/jsoup-1.7.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/pre-dexed/debug/jsoup-1.7.2-ab3b976b846a3548889778e34579cce91b4dbe09.jar" />
+    </item>
+
+</items>

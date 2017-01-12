@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/base_send_pressed.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_send_pressed.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/base_send_normal.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_send_normal.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/init_pic.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/init_pic.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/biz_news_detaila_action_bar_bg.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_news_detaila_action_bar_bg.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/biz_navigation_tab_news_pressed.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_navigation_tab_news_pressed.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/logo.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/base_action_bar_back_divider.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_action_bar_back_divider.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/biz_topic_vote_submit_default.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_topic_vote_submit_default.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/biz_pics_ic_back_normal.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_pics_ic_back_normal.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/biz_pics_ic_download_tp.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_pics_ic_download_tp.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/base_list_divider_drawable.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_list_divider_drawable.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/base_empty_view.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_empty_view.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/biz_news_detail_back_normal.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_news_detail_back_normal.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/base_loading_large_icon.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/base_loading_large_icon.png"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable-hdpi/biz_pics_ic_back_pressed.png",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable-hdpi/biz_pics_ic_back_pressed.png"
+    }
+]

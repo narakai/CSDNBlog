@@ -1,0 +1,458 @@
+[
+    {
+        "outputFile": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 51,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 51,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 9126,
+                    "endColumn": 42,
+                    "endOffset": 9164
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 9126,
+                        "endColumn": 42,
+                        "endOffset": 9164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 9169,
+                    "endColumn": 46,
+                    "endOffset": 9211
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 9169,
+                        "endColumn": 46,
+                        "endOffset": 9211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 9216,
+                    "endColumn": 65,
+                    "endOffset": 9277
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 9216,
+                        "endColumn": 65,
+                        "endOffset": 9277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 9282,
+                    "endColumn": 58,
+                    "endOffset": 9336
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 9282,
+                        "endColumn": 58,
+                        "endOffset": 9336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 9341,
+                    "endColumn": 63,
+                    "endOffset": 9400
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 9341,
+                        "endColumn": 63,
+                        "endOffset": 9400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 9405,
+                    "endColumn": 53,
+                    "endOffset": 9454
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 9405,
+                        "endColumn": 53,
+                        "endOffset": 9454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 9459,
+                    "endColumn": 69,
+                    "endOffset": 9524
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 9459,
+                        "endColumn": 69,
+                        "endOffset": 9524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 9529,
+                    "endColumn": 63,
+                    "endOffset": 9588
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 9529,
+                        "endColumn": 63,
+                        "endOffset": 9588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 9593,
+                    "endColumn": 62,
+                    "endOffset": 9651
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 9593,
+                        "endColumn": 62,
+                        "endOffset": 9651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 9656,
+                    "endColumn": 65,
+                    "endOffset": 9717
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 9656,
+                        "endColumn": 65,
+                        "endOffset": 9717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 9722,
+                    "endColumn": 61,
+                    "endOffset": 9779
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 9722,
+                        "endColumn": 61,
+                        "endOffset": 9779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 9784,
+                    "endColumn": 62,
+                    "endOffset": 9842
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 9784,
+                        "endColumn": 62,
+                        "endOffset": 9842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 9847,
+                    "endColumn": 58,
+                    "endOffset": 9901
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 9847,
+                        "endColumn": 58,
+                        "endOffset": 9901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 9906,
+                    "endColumn": 57,
+                    "endOffset": 9959
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 9906,
+                        "endColumn": 57,
+                        "endOffset": 9959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 9964,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 10322
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 9964,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 10322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 10327,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 10599
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 10327,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 10599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 10604,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 10827
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 10604,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 10827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 10832,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 11202
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 10832,
+                        "endLine": 213,
+                        "endColumn": 12,
+                        "endOffset": 11202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 11207,
+                    "endLine": 220,
+                    "endColumn": 12,
+                    "endOffset": 11597
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 11207,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 11597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 11602,
+                    "endLine": 229,
+                    "endColumn": 12,
+                    "endOffset": 12070
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 11602,
+                        "endLine": 229,
+                        "endColumn": 12,
+                        "endOffset": 12070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 12075,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 12425
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/xListView/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 12075,
+                        "endLine": 236,
+                        "endColumn": 12,
+                        "endOffset": 12425
+                    }
+                }
+            }
+        ]
+    }
+]

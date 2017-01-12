@@ -1,0 +1,2321 @@
+[
+    {
+        "outputFile": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 44,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 51,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 51,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 47,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 47,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 49,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 49,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 49,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 49,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 62,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 62,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 59,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 59,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 60,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 60,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 66,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 66,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 62,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 62,
+                        "endOffset": 557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 38,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 38,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 43,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 43,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 41,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 41,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 42,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 5,
+                        "startOffset": 1346,
+                        "endColumn": 43,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 837,
+                    "endColumn": 38,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1217,
+                        "endColumn": 35,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 47,
+                    "endOffset": 919
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 3,
+                        "startOffset": 1546,
+                        "endColumn": 46,
+                        "endOffset": 1589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 924,
+                    "endColumn": 47,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 3,
+                        "startOffset": 1497,
+                        "endColumn": 46,
+                        "endOffset": 1540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 44,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 3,
+                        "startOffset": 1451,
+                        "endColumn": 43,
+                        "endOffset": 1491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 45,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 5,
+                        "startOffset": 1391,
+                        "endColumn": 46,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 40,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1303,
+                        "endColumn": 38,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 71,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endColumn": 71,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endColumn": 71,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 71,
+                        "endOffset": 701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endColumn": 73,
+                    "endOffset": 1317
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 73,
+                        "endOffset": 775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1322,
+                    "endColumn": 73,
+                    "endOffset": 1391
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 780,
+                        "endColumn": 73,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1396,
+                    "endColumn": 75,
+                    "endOffset": 1467
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 75,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1472,
+                    "endColumn": 72,
+                    "endOffset": 1540
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 72,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1545,
+                    "endColumn": 74,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1003,
+                        "endColumn": 74,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endColumn": 70,
+                    "endOffset": 1686
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 70,
+                        "endOffset": 1144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1691,
+                    "endColumn": 78,
+                    "endOffset": 1765
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1149,
+                        "endColumn": 78,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1770,
+                    "endColumn": 40,
+                    "endOffset": 1806
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 960,
+                        "endColumn": 40,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1811,
+                    "endColumn": 40,
+                    "endOffset": 1847
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 3,
+                        "startOffset": 1637,
+                        "endColumn": 39,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1852,
+                    "endColumn": 44,
+                    "endOffset": 1892
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 44,
+                        "endOffset": 1042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1897,
+                    "endColumn": 44,
+                    "endOffset": 1937
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1045,
+                        "endColumn": 41,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1942,
+                    "endColumn": 48,
+                    "endOffset": 1986
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1255,
+                        "endColumn": 46,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1991,
+                    "endColumn": 45,
+                    "endOffset": 2032
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 45,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2037,
+                    "endColumn": 47,
+                    "endOffset": 2080
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 506,
+                        "endColumn": 47,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2085,
+                    "endColumn": 43,
+                    "endOffset": 2124
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1175,
+                        "endColumn": 40,
+                        "endOffset": 1214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2129,
+                    "endColumn": 40,
+                    "endOffset": 2165
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 40,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2170,
+                    "endColumn": 44,
+                    "endOffset": 2210
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1088,
+                        "endColumn": 41,
+                        "endOffset": 1128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2215,
+                    "endColumn": 40,
+                    "endOffset": 2251
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 3,
+                        "startOffset": 1812,
+                        "endColumn": 39,
+                        "endOffset": 1848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2256,
+                    "endColumn": 41,
+                    "endOffset": 2293
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 3,
+                        "startOffset": 1853,
+                        "endColumn": 40,
+                        "endOffset": 1890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2298,
+                    "endColumn": 39,
+                    "endOffset": 2333
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 555,
+                        "endColumn": 39,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2338,
+                    "endColumn": 47,
+                    "endOffset": 2381
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 47,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2386,
+                    "endColumn": 48,
+                    "endOffset": 2430
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 48,
+                        "endOffset": 750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2435,
+                    "endColumn": 52,
+                    "endOffset": 2483
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 52,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2488,
+                    "endColumn": 53,
+                    "endOffset": 2537
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endColumn": 53,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2542,
+                    "endColumn": 51,
+                    "endOffset": 2589
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 51,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2594,
+                    "endColumn": 55,
+                    "endOffset": 2645
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 55,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2650,
+                    "endColumn": 51,
+                    "endOffset": 2697
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 653,
+                        "endColumn": 51,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2702,
+                    "endColumn": 44,
+                    "endOffset": 2742
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 44,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2747,
+                    "endColumn": 44,
+                    "endOffset": 2787
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 44,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2792,
+                    "endColumn": 46,
+                    "endOffset": 2834
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 46,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2839,
+                    "endColumn": 61,
+                    "endOffset": 2896
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1228,
+                        "endColumn": 61,
+                        "endOffset": 1285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2901,
+                    "endColumn": 62,
+                    "endOffset": 2959
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1290,
+                        "endColumn": 62,
+                        "endOffset": 1348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2964,
+                    "endColumn": 77,
+                    "endOffset": 3037
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1353,
+                        "endColumn": 77,
+                        "endOffset": 1426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3042,
+                    "endColumn": 78,
+                    "endOffset": 3116
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1431,
+                        "endColumn": 78,
+                        "endOffset": 1505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3121,
+                    "endColumn": 92,
+                    "endOffset": 3209
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1510,
+                        "endColumn": 92,
+                        "endOffset": 1598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3214,
+                    "endColumn": 92,
+                    "endOffset": 3302
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endColumn": 92,
+                        "endOffset": 1691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3307,
+                    "endColumn": 107,
+                    "endOffset": 3410
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1696,
+                        "endColumn": 107,
+                        "endOffset": 1799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3415,
+                    "endColumn": 107,
+                    "endOffset": 3518
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1804,
+                        "endColumn": 107,
+                        "endOffset": 1907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3523,
+                    "endColumn": 42,
+                    "endOffset": 3561
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 3,
+                        "startOffset": 1683,
+                        "endColumn": 41,
+                        "endOffset": 1721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3566,
+                    "endColumn": 43,
+                    "endOffset": 3605
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 3,
+                        "startOffset": 1726,
+                        "endColumn": 42,
+                        "endOffset": 1765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3610,
+                    "endColumn": 41,
+                    "endOffset": 3647
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 41,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3652,
+                    "endColumn": 45,
+                    "endOffset": 3693
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1131,
+                        "endColumn": 42,
+                        "endOffset": 1172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3698,
+                    "endColumn": 40,
+                    "endOffset": 3734
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 40,
+                        "endOffset": 954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3739,
+                    "endColumn": 42,
+                    "endOffset": 3777
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 3,
+                        "startOffset": 1594,
+                        "endColumn": 41,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3782,
+                    "endColumn": 41,
+                    "endOffset": 3819
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 3,
+                        "startOffset": 1770,
+                        "endColumn": 40,
+                        "endOffset": 1807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 15093,
+                    "endColumn": 57,
+                    "endOffset": 15146
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 15151,
+                    "endColumn": 55,
+                    "endOffset": 15202
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 15207,
+                    "endColumn": 61,
+                    "endOffset": 15264
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4217,
+                        "endColumn": 61,
+                        "endOffset": 4274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 15269,
+                    "endColumn": 67,
+                    "endOffset": 15332
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4279,
+                        "endColumn": 67,
+                        "endOffset": 4342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 15337,
+                    "endColumn": 62,
+                    "endOffset": 15395
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4347,
+                        "endColumn": 62,
+                        "endOffset": 4405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 15400,
+                    "endColumn": 64,
+                    "endOffset": 15460
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4410,
+                        "endColumn": 64,
+                        "endOffset": 4470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 15465,
+                    "endColumn": 65,
+                    "endOffset": 15526
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4475,
+                        "endColumn": 65,
+                        "endOffset": 4536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 15531,
+                    "endColumn": 66,
+                    "endOffset": 15593
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4541,
+                        "endColumn": 66,
+                        "endOffset": 4603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 15598,
+                    "endColumn": 77,
+                    "endOffset": 15671
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4608,
+                        "endColumn": 77,
+                        "endOffset": 4681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 15676,
+                    "endColumn": 89,
+                    "endOffset": 15761
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4686,
+                        "endColumn": 89,
+                        "endOffset": 4771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 15766,
+                    "endColumn": 72,
+                    "endOffset": 15834
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4776,
+                        "endColumn": 72,
+                        "endOffset": 4844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 15839,
+                    "endColumn": 68,
+                    "endOffset": 15903
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4849,
+                        "endColumn": 68,
+                        "endOffset": 4913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 15908,
+                    "endColumn": 64,
+                    "endOffset": 15968
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4918,
+                        "endColumn": 64,
+                        "endOffset": 4978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 15973,
+                    "endColumn": 67,
+                    "endOffset": 16036
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4983,
+                        "endColumn": 67,
+                        "endOffset": 5046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 16041,
+                    "endColumn": 65,
+                    "endOffset": 16102
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 5051,
+                        "endColumn": 65,
+                        "endOffset": 5112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 16107,
+                    "endColumn": 42,
+                    "endOffset": 16145
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 9126,
+                        "endColumn": 42,
+                        "endOffset": 9164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 16150,
+                    "endColumn": 68,
+                    "endOffset": 16214
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 5117,
+                        "endColumn": 68,
+                        "endOffset": 5181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 16219,
+                    "endColumn": 78,
+                    "endOffset": 16293
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5186,
+                        "endColumn": 78,
+                        "endOffset": 5260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 16298,
+                    "endColumn": 69,
+                    "endOffset": 16363
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 5265,
+                        "endColumn": 69,
+                        "endOffset": 5330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 16368,
+                    "endColumn": 72,
+                    "endOffset": 16436
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 5335,
+                        "endColumn": 72,
+                        "endOffset": 5403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 16441,
+                    "endColumn": 73,
+                    "endOffset": 16510
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 5408,
+                        "endColumn": 73,
+                        "endOffset": 5477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 16515,
+                    "endColumn": 52,
+                    "endOffset": 16563
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 16568,
+                    "endColumn": 45,
+                    "endOffset": 16609
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 45,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 16614,
+                    "endColumn": 65,
+                    "endOffset": 16675
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 9216,
+                        "endColumn": 65,
+                        "endOffset": 9277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 16680,
+                    "endColumn": 52,
+                    "endOffset": 16728
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 16733,
+                    "endColumn": 58,
+                    "endOffset": 16787
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 9282,
+                        "endColumn": 58,
+                        "endOffset": 9336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 16792,
+                    "endColumn": 63,
+                    "endOffset": 16851
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 9341,
+                        "endColumn": 63,
+                        "endOffset": 9400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 16856,
+                    "endColumn": 53,
+                    "endOffset": 16905
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 9405,
+                        "endColumn": 53,
+                        "endOffset": 9454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 16910,
+                    "endColumn": 69,
+                    "endOffset": 16975
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 9459,
+                        "endColumn": 69,
+                        "endOffset": 9524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 16980,
+                    "endColumn": 63,
+                    "endOffset": 17039
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 9529,
+                        "endColumn": 63,
+                        "endOffset": 9588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 17044,
+                    "endColumn": 62,
+                    "endOffset": 17102
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 9593,
+                        "endColumn": 62,
+                        "endOffset": 9651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 17107,
+                    "endColumn": 65,
+                    "endOffset": 17168
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 9656,
+                        "endColumn": 65,
+                        "endOffset": 9717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 17173,
+                    "endColumn": 61,
+                    "endOffset": 17230
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 9722,
+                        "endColumn": 61,
+                        "endOffset": 9779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 17235,
+                    "endColumn": 62,
+                    "endOffset": 17293
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 9784,
+                        "endColumn": 62,
+                        "endOffset": 9842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 17298,
+                    "endColumn": 58,
+                    "endOffset": 17352
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 9847,
+                        "endColumn": 58,
+                        "endOffset": 9901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 17357,
+                    "endLine": 294,
+                    "endColumn": 12,
+                    "endOffset": 17643
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 17648,
+                    "endLine": 297,
+                    "endColumn": 12,
+                    "endOffset": 17803
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 17808,
+                    "endLine": 301,
+                    "endColumn": 12,
+                    "endOffset": 17995
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1723,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 18000,
+                    "endLine": 308,
+                    "endColumn": 12,
+                    "endOffset": 18396
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 5,
+                        "startOffset": 692,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 18401,
+                    "endLine": 319,
+                    "endColumn": 12,
+                    "endOffset": 19000
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1106,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 19005,
+                    "endLine": 323,
+                    "endColumn": 12,
+                    "endOffset": 19200
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5482,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 5677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 19205,
+                    "endLine": 327,
+                    "endColumn": 12,
+                    "endOffset": 19453
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5682,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 5930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 19458,
+                    "endLine": 329,
+                    "endColumn": 12,
+                    "endOffset": 19492
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5935,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 5969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 19497,
+                    "endLine": 333,
+                    "endColumn": 12,
+                    "endOffset": 19682
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5974,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 6159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 19687,
+                    "endLine": 344,
+                    "endColumn": 12,
+                    "endOffset": 20284
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6164,
+                        "endLine": 82,
+                        "endColumn": 12,
+                        "endOffset": 6761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 20289,
+                    "endLine": 351,
+                    "endColumn": 12,
+                    "endOffset": 20647
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 9964,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 10322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 20652,
+                    "endLine": 357,
+                    "endColumn": 12,
+                    "endOffset": 20924
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 10327,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 10599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 20929,
+                    "endLine": 362,
+                    "endColumn": 12,
+                    "endOffset": 21152
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 10604,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 10827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 21157,
+                    "endLine": 369,
+                    "endColumn": 12,
+                    "endOffset": 21527
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 10832,
+                        "endLine": 213,
+                        "endColumn": 12,
+                        "endOffset": 11202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 21532,
+                    "endLine": 376,
+                    "endColumn": 12,
+                    "endOffset": 21922
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 11207,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 11597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 21927,
+                    "endLine": 385,
+                    "endColumn": 12,
+                    "endOffset": 22395
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 11602,
+                        "endLine": 229,
+                        "endColumn": 12,
+                        "endOffset": 12070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 22400,
+                    "endLine": 392,
+                    "endColumn": 12,
+                    "endOffset": 22750
+                },
+                "from": {
+                    "file": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/xListView/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 12075,
+                        "endLine": 236,
+                        "endColumn": 12,
+                        "endOffset": 12425
+                    }
+                }
+            }
+        ]
+    }
+]

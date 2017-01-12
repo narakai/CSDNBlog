@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable/comment_btn.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/comment_btn.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable/progressbar_large.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/progressbar_large.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable/bg_key.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/bg_key.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable/back_btn.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/back_btn.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable/download_btn.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/download_btn.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable/background_activated.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/src/main/res/drawable/background_activated.xml"
+    },
+    {
+        "merged": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/res/merged/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/Users/leon/Documents/AS/CSDNBlog/cSDNBlog/build/intermediates/exploded-aar/CSDNBlog/viewPagerlibrary/unspecified/res/drawable/vpi__tab_indicator.xml"
+    }
+]
