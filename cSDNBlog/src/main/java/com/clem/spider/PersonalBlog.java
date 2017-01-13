@@ -1,23 +1,21 @@
 package com.clem.spider;
 
-import java.util.List;
-
 public class PersonalBlog {
 	 /** 
-     * 标题 
+     * 鏍囬 
      */  
     private String blogTitle;  
     /** 
-     * 时间
+     * 鏃堕棿
      */  
     private String blogTime;  
   
     /** 
-     * 博客链接 
+     * 鍗氬閾炬帴 
      */  
     private String blogLink;
     /** 
-     * 博客链接 
+     * 鍗氬閾炬帴 
      */  
     private String mainLink;
     public String getMainLink() {
@@ -29,7 +27,7 @@ public class PersonalBlog {
 	}
 
 	/** 
-     * 博客链接 
+     * 鍗氬閾炬帴 
      */ 
     private String blogAuthor;
     public String getBlogAuthor() {
@@ -49,7 +47,7 @@ public class PersonalBlog {
 	}
 
 	/** 
-     * 博客链接 
+     * 鍗氬閾炬帴 
      */ 
     private String blogSlogan;
 

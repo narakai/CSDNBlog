@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/cSDNBlog/src/main/java/com/clem/csdnblog/LazyFragment.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cSDNBlog/src/main/java/com/clem/dao/NewsItemDao.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cSDNBlog/src/main/java/com/clem/spider/DataUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cSDNBlog/src/main/java/com/clem/spider/NewsItemBiz.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cSDNBlog/src/main/java/com/clem/spider/PersonalBlog.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cSDNBlog/src/main/java/com/clem/spider/URLUtil.java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

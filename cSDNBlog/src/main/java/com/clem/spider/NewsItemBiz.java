@@ -9,9 +9,9 @@ import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 public class NewsItemBiz {
-	// 处理NewItem的业务类
+	// 澶勭悊NewItem鐨勪笟鍔＄被
 	/**
-	 * 业界、移动、云计算
+	 * 涓氱晫銆佺Щ鍔ㄣ�佷簯璁＄畻
 	 * 
 	 * @param htmlStr
 	 * @return
